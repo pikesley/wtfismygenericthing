@@ -10,6 +10,7 @@ Mostly an excuse for me to learn JavaScript (and now [pjax](http://www.littlestr
 
 * [WTF is my Blockchain Strategy](https://wtfismyblockchainstrategy.herokuapp.com/)
 * [WTF is my Open Data Strategy](https://wtfismyopendatastrategy.herokuapp.com/)
+* [WTF is this week's Uber for Cats](https://wtfisthisweeksuberforcats.herokuapp.com/)
 * [WTF is my BBC The Big Questions Topic](https://wtfismybbctbqtopic.herokuapp.com/)
 
 ## How to use it
